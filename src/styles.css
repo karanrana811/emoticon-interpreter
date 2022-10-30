@@ -1,0 +1,52 @@
+.App {
+  width: 70%;
+  margin: auto;
+}
+.header1 {
+  background-color: #b7f4eb;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+hr {
+  width: 90%;
+  height: 1px;
+  margin-top: 25px;
+  background: #eafcf9;
+  border: none;
+}
+
+body {
+  background-color: #22d8be;
+  font-family: "Prompt", sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+input {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  margin: 0.5rem;
+  margin-top: 1rem;
+  display: inline;
+  cursor: pointer;
+}
+
+ul {
+  display: inline;
+  line-height: 2.5rem;
+  padding-inline-start: 0;
+  /* list-style: none; */
+}
+
+div {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
